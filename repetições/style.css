@@ -1,0 +1,59 @@
+body {
+    background-color: #444;
+    color: gray;
+    font-size: 20px;
+}
+
+header{
+    margin: 60px auto;
+    background-color: teal;
+    text-align: center ;
+    border-radius: 10px;
+}
+header h1{
+    color: white;
+    
+}
+.container{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius:10px;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.541);
+}
+.container input#fnum{
+    width: 100px;
+    outline-style: none;
+}
+.container .botao{
+    margin-left: 10px;
+    padding: 5px 8px;
+    color: white;
+    border-radius: 10px;
+    border:none;
+    background-color:teal;
+    outline-style: none;
+    cursor: pointer;
+}
+.container .botao:hover{
+    opacity: 0.8;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
+select{
+    width: 150px;
+box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.295);
+border: none;
+
+}
+select option{
+    color: gray;
+}
+#res p{
+    color: teal;
+}

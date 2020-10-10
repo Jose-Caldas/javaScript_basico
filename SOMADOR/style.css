@@ -1,0 +1,16 @@
+body {
+    background-color: #444;
+    color: #fff;
+    font-size: 20px;
+}
+
+#area {
+    background-color: teal;
+    width: 200px;
+    height: 200px;
+    margin: 60px auto;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 25px;
+
+}

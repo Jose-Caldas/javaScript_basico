@@ -1,0 +1,19 @@
+body {
+    background-color: #444;
+    color: #fff;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+
+
+}
