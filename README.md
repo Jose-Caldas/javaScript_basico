@@ -1,2 +1,2 @@
 # javaScript_basico
-fundamentos básicos JS
+fundamentos básicos em JavaScript
